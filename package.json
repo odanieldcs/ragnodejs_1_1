@@ -1,13 +1,16 @@
 {
-  "name": "cb-workshop-rag-node",
+  "name": "ragnodejs_1_1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Daniel Castro",
+  "main": "",
+  "scripts": {},
+  "keywords": [
+    "rag",
+    "nodejs",
+    "openai",
+    "qdrant"
+  ],
+  "author": "Daniel Castro <hi@danieldcs.com>",
   "license": "ISC",
   "packageManager": "pnpm@10.11.0"
 }

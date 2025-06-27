@@ -2,12 +2,17 @@
   "name": "core",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
     "dev": "node src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "rag",
+    "nodejs",
+    "openai",
+    "qdrant"
+  ],
   "author": "Daniel Castro",
   "license": "ISC",
   "packageManager": "pnpm@10.11.0",
